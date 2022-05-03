@@ -1,0 +1,25 @@
+﻿"Año";"Periodo";"Deuda pública en miles de euros"
+"2011";"Año";"147.305"
+"2012";"Año";"154.266"
+"2013";"Año";"137.031"
+"2014";"Año";"120.024"
+"2015";"Año";"97.506"
+"2016";"Año";"205.876"
+"2017";"Año";"203.113"
+"2018";"Año";"201.107"
+"2019";"Año";"223.054"
+"2020";"Año";"207.034,8"
+;;
+;;
+"Métrica":"Deuda pública en miles de euros"
+"Fuente":"Ministerio de Hacienda"
+"Clasificación":""
+"Unidad":"Euros"
+"Escala":"Miles"
+"EscalaFactorPotencia10":"3"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/deuda-publica-municipio/260edf09-ade2-416d-ab5a-251685567edb/burgos/1795"
+"Titulo":"Deuda pública en Burgos﻿ "
+"Subtitulo":""
