@@ -1,0 +1,2 @@
+{"alumnos" :
+[{"alumno":"Carla","nota":9.5,"ranking":3},{"alumno":"Juan","nota":4,"ranking":150},{"alumno":"Maria","nota":2.05,"ranking":170},{"alumno":"Pedro","nota":9.1,"ranking":11},{"alumno":"Mercedes","nota":7.6,"ranking":75},{"alumno":"Esther","nota":5.2,"ranking":130},{"alumno":"Ruben","nota":8,"ranking":62},{"alumno":"Federico","nota":10,"ranking":1},{"alumno":"Elena","nota":6.2,"ranking":81}]}
