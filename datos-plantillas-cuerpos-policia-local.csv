@@ -1,0 +1,466 @@
+ano;provincia;ayuntamiento;viguilante_municipales;policia_local_ejecutiva_agte;policia_local_ejecutiva_oficial;policia_local_tecnica_sub;policia_local_tecnica_ins;policia_local_superior_my;policia_local_superior_int;policia_local_superior_sp;total;hombres;mujeres;medio;prov_abreviada
+2021;ÁVILA;Arenas de San Pedro;;15;;;;;;;15;13;2;Rural;AV
+2021;ÁVILA;Arévalo;;11;3;;;;;;14;11;3;Rural;AV
+2021;ÁVILA;ÁVILA;;83;11;2;2;1;;;99;94;5;Urbano;AV
+2021;ÁVILA;Candeleda;;10;;;;;;;10;9;1;Rural;AV
+2021;ÁVILA;Cebreros;;6;2;;;;;;8;7;1;Rural;AV
+2021;ÁVILA;El Barco de Ávila;2;;;;;;;;2;2;0;Rural;AV
+2021;ÁVILA;El Hoyo de Pinares;;3;;;;;;;3;3;0;Rural;AV
+2021;ÁVILA;El Tiemblo;;4;;;;;;;4;2;2;Rural;AV
+2021;ÁVILA;La Adrada;;2;1;;;;;;3;3;0;Rural;AV
+2021;ÁVILA;Las Navas del Marqués;;7;1;;;;;;8;8;0;Rural;AV
+2021;ÁVILA;Piedralaves;;3;1;;;;;;4;3;1;Rural;AV
+2021;ÁVILA;Sotillo de la Adrada;;5;1;;;;;;6;6;0;Rural;AV
+2021;BURGOS;Aranda de Duero;;19;5;;1;;;;25;21;4;Urbano;BU
+2021;BURGOS;Briviesca;;5;2;;;;;;7;7;0;Rural;BU
+2021;BURGOS;BURGOS;;240;25;9;3;1;1;;279;262;17;Urbano;BU
+2021;BURGOS;LEÓN;;221;18;8;3;1;1;;252;228;24;Urbano;BU
+2021;BURGOS;Lerma;;2;;;;;;;2;2;0;Rural;BU
+2021;BURGOS;Medina de Pomar;;4;2;;;;;;6;5;1;Rural;BU
+2021;BURGOS;Melgar de Fernamental;1;;;;;;;;1;0;1;Rural;BU
+2021;BURGOS;Miranda de Ebro;;39;8;;1;1;;;49;43;6;Urbano;BU
+2021;BURGOS;Salas de los Infantes;1;;;;;;;;1;0;1;Rural;BU
+2021;BURGOS;Valle de Mena;;6;;;;;;;6;4;2;Rural;BU
+2021;LEÓN;Astorga;;17;3;1;;;;;21;19;2;Rural;LE
+2021;LEÓN;Bembibre;;9;1;;;;;;10;9;1;Rural;LE
+2021;LEÓN;Cacabelos;;4;;;;;;;4;4;0;Rural;LE
+2021;LEÓN;Cistierna;;1;;;;;;;1;1;0;Rural;LE
+2021;LEÓN;Fabero;;2;;;;;;;2;2;0;Rural;LE
+2021;LEÓN;La Bañeza;;14;2;1;;;;;17;14;3;Rural;LE
+2021;LEÓN;La Pola de Gordón;;2;;;;;;;2;2;0;Rural;LE
+2021;LEÓN;La Robla;;3;1;;;;;;4;4;0;Rural;LE
+2021;LEÓN;Mansilla de las Mulas;1;;;;;;;;1;1;0;Rural;LE
+2021;LEÓN;Ponferrada;;68;19;4;1;;1;;93;83;10;Urbano;LE
+2021;LEÓN;Sahagún;;1;;;;;;;1;1;0;Rural;LE
+2021;LEÓN;San Andrés del Rabanedo;;31;4;2;1;;;;38;36;2;Urbano;LE
+2021;LEÓN;Santa María del Páramo;2;;;;;;;;2;2;0;Rural;LE
+2021;LEÓN;Toral de los Vados;;2;;;;;;;2;2;0;Rural;LE
+2021;LEÓN;Toreno;;1;;;;;;;1;1;0;Rural;LE
+2021;LEÓN;Valencia de Don Juan;;5;;;;;;;5;5;0;Rural;LE
+2021;LEÓN;Valverde de la Virgen;;7;;;;;;;7;5;2;Rural;LE
+2021;LEÓN;Villablino;;8;;;;;;;8;7;1;Rural;LE
+2021;LEÓN;Villafranca del Bierzo;;2;;;;;;;2;1;1;Rural;LE
+2021;LEÓN;Villaquilambre;;10;3;;;;;;13;10;3;Rural;LE
+2021;PALENCIA;Aguilar de Campoo;;8;1;;;;;;9;9;0;Rural;PA
+2021;PALENCIA;Barruelo de Santullán;1;;;;;;;;1;1;0;Rural;PA
+2021;PALENCIA;Carrión de los Condes;2;1;;;;;;;3;3;0;Rural;PA
+2021;PALENCIA;Dueñas;;3;;;;;;;3;3;0;Rural;PA
+2021;PALENCIA;Guardo;;3;;1;;;;;4;4;0;Rural;PA
+2021;PALENCIA;Herrera de Pisuerga;2;;;;;;;;2;2;0;Rural;PA
+2021;PALENCIA;PALENCIA;;98;9;6;1;;1;;115;107;8;Urbano;PA
+2021;PALENCIA;Paredes de Nava;;1;;;;;;;1;1;0;Rural;PA
+2021;PALENCIA;Saldaña;3;;;;;;;;3;2;1;Rural;PA
+2021;PALENCIA;Venta de Baños;;3;1;;;;;;4;3;1;Rural;PA
+2021;PALENCIA;Villamuriel de Cerrato;;8;1;;;;;;9;8;1;Rural;PA
+2021;SALAMANCA;Alba de Tormes;;4;1;;;;;;5;4;1;Rural;SA
+2021;SALAMANCA;Béjar;;16;2;;;;;;18;16;2;Rural;SA
+2021;SALAMANCA;Carbajosa de la Sagrada;;6;1;;;;;;7;6;1;Rural;SA
+2021;SALAMANCA;Ciudad Rodrigo;;22;2;2;;;;;26;25;1;Rural;SA
+2021;SALAMANCA;Guijuelo;;13;;1;;;;;14;14;0;Rural;SA
+2021;SALAMANCA;Peñaranda de Bracamonte;;8;2;1;;;;;11;11;0;Rural;SA
+2021;SALAMANCA;SALAMANCA;;247;27;17;5;2;;;298;261;37;Urbano;SA
+2021;SALAMANCA;Santa Marta de Tormes;;21;3;1;1;;;;26;23;3;Rural;SA
+2021;SALAMANCA;Terradillos;;3;;;;;;;3;3;0;Rural;SA
+2021;SALAMANCA;Villamayor;1;2;;;;;;;3;1;2;Rural;SA
+2021;SALAMANCA;Vitigudino;;1;;;;;;;1;1;0;Rural;SA
+2021;SEGOVIA;Cantalejo;4;;;;;;;;4;4;0;Rural;SE
+2021;SEGOVIA;Cuéllar;;9;1;;;;;;10;9;1;Rural;SE
+2021;SEGOVIA;El Espinar;;12;2;2;;;;;16;12;4;Rural;SE
+2021;SEGOVIA;SEGOVIA;;78;12;4;3;;1;;98;91;7;Urbano;SE
+2021;SORIA;Ágreda;;2;;;;;;;2;2;0;Rural;SO
+2021;SORIA;Almazán;;11;1;;;;;;12;11;1;Rural;SO
+2021;SORIA;El Burgo de Osma;;6;;;;;;;6;6;0;Rural;SO
+2021;SORIA;Ólvega;1;;;;;;;;1;1;0;Rural;SO
+2021;SORIA;San Leonardo de Yagüe;1;;;;;;;;1;1;0;Rural;SO
+2021;SORIA;SORIA;;54;6;3;1;;;;64;59;5;Urbano;SO
+2021;VALLADOLID;Arroyo de la Encomienda;;13;;1;;;;;14;13;1;Urbano;VA
+2021;VALLADOLID;Boecillo;;3;;;;;;;3;2;1;Rural;VA
+2021;VALLADOLID;Cistérniga;;4;;;;;;;4;3;1;Rural;VA
+2021;VALLADOLID;Cogeces del Monte;1;;;;;;;;1;1;0;Rural;VA
+2021;VALLADOLID;Íscar;;2;1;;;;;;3;3;0;Rural;VA
+2021;VALLADOLID;Laguna de Duero;;21;3;1;1;;;;26;24;2;Urbano;VA
+2021;VALLADOLID;Medina de Rioseco;;1;1;;;;;;2;2;0;Rural;VA
+2021;VALLADOLID;Medina del Campo;;25;5;1;1;;;;32;29;3;Urbano;VA
+2021;VALLADOLID;Pedrajas de San Esteban;;1;;;;;;;1;1;0;Rural;VA
+2021;VALLADOLID;Peñafiel;;6;;;;;;;6;6;0;Rural;VA
+2021;VALLADOLID;Simancas;;8;;1;;;;;9;9;0;Rural;VA
+2021;VALLADOLID;Tordesillas;;8;;2;;;;;10;9;1;Rural;VA
+2021;VALLADOLID;Tudela de Duero;;7;1;1;;;;;9;8;1;Rural;VA
+2021;VALLADOLID;VALLADOLID;;378;12;10;3;1;1;;405;346;59;Urbano;VA
+2021;ZAMORA;Benavente;;20;5;1;;;;;26;24;2;Rural;ZA
+2021;ZAMORA;Corrales del Vino;;1;;;;;;;1;1;0;Rural;ZA
+2021;ZAMORA;Puebla de Sanabria;;1;;;;;;;1;1;0;Rural;ZA
+2021;ZAMORA;Toro;;10;3;2;;;;;15;14;1;Rural;ZA
+2021;ZAMORA;ZAMORA;;101;13;6;1;;;;121;108;13;Urbano;ZA
+2020;ÁVILA;Arenas de San Pedro;;15;;;;;;;15;13;2;Rural;AV
+2020;ÁVILA;Arévalo;;11;3;;;;;;14;11;3;Rural;AV
+2020;ÁVILA;ÁVILA;;82;11;2;2;1;;;98;93;5;Urbano;AV
+2020;ÁVILA;Candeleda;;4;;;;;;;4;4;0;Rural;AV
+2020;ÁVILA;Cebreros;;3;2;;;;;;5;4;1;Rural;AV
+2020;ÁVILA;El Barco de Ávila;2;;;;;;;;2;2;0;Rural;AV
+2020;ÁVILA;El Hoyo de Pinares;;3;;;;;;;3;3;0;Rural;AV
+2020;ÁVILA;El Tiemblo;;2;;;;;;;2;2;0;Rural;AV
+2020;ÁVILA;La Adrada;;2;1;;;;;;3;3;0;Rural;AV
+2020;ÁVILA;Las Navas del Marqués;;5;1;;;;;;6;6;0;Rural;AV
+2020;ÁVILA;Piedralaves;;3;1;;;;;;4;3;1;Rural;AV
+2020;ÁVILA;Sotillo de la Adrada;;5;1;;;;;;6;6;0;Rural;AV
+2020;BURGOS;Aranda de Duero;;20;5;;1;;;;26;21;5;Urbano;BU
+2020;BURGOS;Briviesca;;9;2;;;;;;11;11;0;Rural;BU
+2020;BURGOS;BURGOS;;233;25;9;3;1;1;;272;257;15;Urbano;BU
+2020;BURGOS;Lerma;;2;;;;;;;2;2;0;Rural;BU
+2020;BURGOS;Medina de Pomar;;4;2;;;;;;6;5;1;Rural;BU
+2020;BURGOS;Melgar de Fernamental;1;;;;;;;;1;0;1;Rural;BU
+2020;BURGOS;Miranda de Ebro;;38;8;2;1;1;;;50;44;6;Urbano;BU
+2020;BURGOS;Roa;;1;;;;;;;1;1;0;Rural;BU
+2020;BURGOS;Salas de los Infantes;1;;;;;;;;1;0;1;Rural;BU
+2020;BURGOS;Valle de Mena;;6;;;;;;;6;4;2;Rural;BU
+2020;LEÓN;Astorga;;17;3;1;;;;;21;19;2;Rural;LE
+2020;LEÓN;Bembibre;;8;1;;;;;;9;9;0;Rural;LE
+2020;LEÓN;Cacabelos;;4;;;;;;;4;4;0;Rural;LE
+2020;LEÓN;Cistierna;;1;;;;;;;1;1;0;Rural;LE
+2020;LEÓN;Fabero;;2;;;;;;;2;2;0;Rural;LE
+2020;LEÓN;La Bañeza;;14;2;1;;;;;17;13;4;Rural;LE
+2020;LEÓN;La Pola de Gordón;;2;;;;;;;2;2;0;Rural;LE
+2020;LEÓN;La Robla;;3;1;;;;;;4;4;0;Rural;LE
+2020;LEÓN;LEÓN;;198;18;8;3;1;1;;229;211;18;Urbano;LE
+2020;LEÓN;Mansilla de las Mulas;1;;;;;;;;1;1;0;Rural;LE
+2020;LEÓN;Ponferrada;;56;14;4;1;;1;;76;68;8;Urbano;LE
+2020;LEÓN;San Andrés del Rabanedo;;32;4;2;1;;;;39;37;2;Urbano;LE
+2020;LEÓN;Santa María del Páramo;2;;;;;;;;2;2;0;Rural;LE
+2020;LEÓN;Toral de los Vados;;2;;;;;;;2;2;0;Rural;LE
+2020;LEÓN;Toreno;;1;;;;;;;1;1;0;Rural;LE
+2020;LEÓN;Valencia de Don Juan;;5;;;;;;;5;5;0;Rural;LE
+2020;LEÓN;Valverde de la Virgen;;7;;;;;;;7;5;2;Rural;LE
+2020;LEÓN;Villablino;;8;;;;;;;8;7;1;Rural;LE
+2020;LEÓN;Villafranca del Bierzo;;2;;;;;;;2;1;1;Rural;LE
+2020;LEÓN;Villaquilambre;;10;3;;;;;;13;10;3;Rural;LE
+2020;PALENCIA;Aguilar de Campoo;;8;1;;;;;;9;9;0;Rural;PA
+2020;PALENCIA;Barruelo de Santullán;1;;;;;;;;1;1;0;Rural;PA
+2020;PALENCIA;Carrión de los Condes;2;1;;;;;;;3;3;0;Rural;PA
+2020;PALENCIA;Dueñas;;3;;;;;;;3;3;0;Rural;PA
+2020;PALENCIA;Guardo;;3;;1;;;;;4;4;0;Rural;PA
+2020;PALENCIA;Herrera de Pisuerga;2;;;;;;;;2;2;0;Rural;PA
+2020;PALENCIA;PALENCIA;;100;9;6;1;;1;;117;108;9;Urbano;PA
+2020;PALENCIA;Paredes de Nava;;1;;;;;;;1;1;0;Rural;PA
+2020;PALENCIA;Saldaña;3;;;;;;;;3;2;1;Rural;PA
+2020;PALENCIA;Venta de Baños;;3;1;;;;;;4;3;1;Rural;PA
+2020;PALENCIA;Villamuriel de Cerrato;;7;1;;;;;;8;7;1;Rural;PA
+2020;SALAMANCA;Alba de Tormes;;4;1;;;;;;5;4;1;Rural;SA
+2020;SALAMANCA;Béjar;;15;2;;;;;;17;15;2;Rural;SA
+2020;SALAMANCA;Carbajosa de la Sagrada;;6;1;;;;;;7;6;1;Rural;SA
+2020;SALAMANCA;Ciudad Rodrigo;;16;2;2;;;;;20;19;1;Rural;SA
+2020;SALAMANCA;Guijuelo;;12;;1;;;;;13;13;0;Rural;SA
+2020;SALAMANCA;Peñaranda de Bracamonte;;8;2;1;;;;;11;11;0;Rural;SA
+2020;SALAMANCA;SALAMANCA;;249;27;17;5;2;;;300;263;37;Urbano;SA
+2020;SALAMANCA;Santa Marta de Tormes;;18;3;1;1;;;;23;22;1;Rural;SA
+2020;SALAMANCA;Terradillos;;3;;;;;;;3;3;0;Rural;SA
+2020;SALAMANCA;Villamayor;1;2;;;;;;;3;1;2;Rural;SA
+2020;SALAMANCA;Vitigudino;;1;;;;;;;1;1;0;Rural;SA
+2020;SEGOVIA;Cantalejo;4;;;;;;;;4;4;0;Rural;SE
+2020;SEGOVIA;Cuéllar;;9;1;;;;;;10;9;1;Rural;SE
+2020;SEGOVIA;El Espinar;;11;2;2;;;;;15;12;3;Rural;SE
+2020;SEGOVIA;SEGOVIA;;86;11;4;3;1;1;;106;97;9;Urbano;SE
+2020;SORIA;Ágreda;;2;;;;;;;2;2;0;Rural;SO
+2020;SORIA;Almazán;;8;1;;;;;;9;9;0;Rural;SO
+2020;SORIA;El Burgo de Osma;;6;;;;;;;6;6;0;Rural;SO
+2020;SORIA;Ólvega;1;;;;;;;;1;1;0;Rural;SO
+2020;SORIA;San Leonardo de Yagüe;1;;;;;;;;1;1;0;Rural;SO
+2020;SORIA;SORIA;;54;6;3;1;;;;64;59;5;Urbano;SO
+2020;VALLADOLID;Arroyo de la Encomienda;;12;;1;;;;;13;12;1;Urbano;VA
+2020;VALLADOLID;Boecillo;;3;;;;;;;3;2;1;Rural;VA
+2020;VALLADOLID;Cistérniga;;3;;;;;;;3;2;1;Rural;VA
+2020;VALLADOLID;Cogeces del Monte;1;;;;;;;;1;1;0;Rural;VA
+2020;VALLADOLID;Íscar;;3;1;;;;;;4;4;0;Rural;VA
+2020;VALLADOLID;Laguna de Duero;;21;3;1;1;;;;26;24;2;Urbano;VA
+2020;VALLADOLID;Medina de Rioseco;;1;1;;;;;;2;2;0;Rural;VA
+2020;VALLADOLID;Medina del Campo;;25;5;1;1;;;;32;29;3;Urbano;VA
+2020;VALLADOLID;Pedrajas de San Esteban;;1;;;;;;;1;1;0;Rural;VA
+2020;VALLADOLID;Peñafiel;;7;;;;;;;7;7;0;Rural;VA
+2020;VALLADOLID;Simancas;;6;;1;;;;;7;7;0;Rural;VA
+2020;VALLADOLID;Tordesillas;;8;;2;;;;;10;9;1;Rural;VA
+2020;VALLADOLID;Tudela de Duero;;7;1;1;;;;;9;8;1;Rural;VA
+2020;VALLADOLID;VALLADOLID;;384;15;12;4;1;1;;417;366;51;Urbano;VA
+2020;ZAMORA;Benavente;;21;5;1;;;;;27;25;2;Rural;ZA
+2020;ZAMORA;Corrales del Vino;;1;;;;;;;1;1;0;Rural;ZA
+2020;ZAMORA;Puebla de Sanabria;;1;;;;;;;1;1;0;Rural;ZA
+2020;ZAMORA;Toro;;11;3;2;;;;;16;15;1;Rural;ZA
+2020;ZAMORA;ZAMORA;;96;13;6;1;;;;116;104;12;Urbano;ZA
+2019;ÁVILA;Arenas de San Pedro;;12;;;;;;;12;10;2;Rural;AV
+2019;ÁVILA;Arévalo;;7;3;;;;;;10;8;2;Rural;AV
+2019;ÁVILA;ÁVILA;;65;11;3;;1;;;80;77;3;Urbano;AV
+2019;ÁVILA;Candeleda;;6;;;;;;;6;6;0;Rural;AV
+2019;ÁVILA;Cebreros;;4;2;;;;;;6;5;1;Rural;AV
+2019;ÁVILA;El Barco de Ávila;2;;;;;;;;2;2;0;Rural;AV
+2019;ÁVILA;El Hoyo de Pinares;;3;;;;;;;3;3;0;Rural;AV
+2019;ÁVILA;El Tiemblo;;3;;;;;;;3;3;0;Rural;AV
+2019;ÁVILA;La Adrada;;2;1;;;;;;3;3;0;Rural;AV
+2019;ÁVILA;Las Navas del Marqués;;7;1;;;;;;8;8;0;Rural;AV
+2019;ÁVILA;Piedralaves;;3;1;;;;;;4;3;1;Rural;AV
+2019;ÁVILA;Sotillo de la Adrada;;5;1;;;;;;6;6;0;Rural;AV
+2019;BURGOS;Aranda de Duero;;15;5;;1;;;;21;17;4;Urbano;BU
+2019;BURGOS;Briviesca;;6;2;;;;;;8;8;0;Rural;BU
+2019;BURGOS;BURGOS;;223;25;9;3;1;1;;262;249;13;Urbano;BU
+2019;BURGOS;Lerma;;2;;;;;;;2;2;0;Rural;BU
+2019;BURGOS;Medina de Pomar;;4;2;;;;;;6;5;1;Rural;BU
+2019;BURGOS;Melgar de Fernamental;1;;;;;;;;1;0;1;Rural;BU
+2019;BURGOS;Miranda de Ebro;;36;7;2;1;1;;;47;43;4;Urbano;BU
+2019;BURGOS;Roa;;1;;;;;;;1;1;0;Rural;BU
+2019;BURGOS;Salas de los Infantes;1;;;;;;;;1;0;1;Rural;BU
+2019;BURGOS;Valle de Mena;;6;;;;;;;6;4;2;Rural;BU
+2019;LEÓN;Astorga;;17;3;1;;;;;21;19;2;Rural;LE
+2019;LEÓN;Bembibre;;9;1;;;;;;10;10;0;Rural;LE
+2019;LEÓN;Cacabelos;;4;;;;;;;4;4;0;Rural;LE
+2019;LEÓN;Cistierna;;1;;;;;;;1;1;0;Rural;LE
+2019;LEÓN;Fabero;;2;;;;;;;2;2;0;Rural;LE
+2019;LEÓN;La Bañeza;;15;2;1;;;;;18;13;5;Rural;LE
+2019;LEÓN;La Pola de Gordón;;1;;;;;;;1;1;0;Rural;LE
+2019;LEÓN;La Robla;;2;1;;;;;;3;3;0;Rural;LE
+2019;LEÓN;LEÓN;;191;18;8;3;1;1;;222;207;15;Urbano;LE
+2019;LEÓN;Mansilla de las Mulas;1;;;;;;;;1;1;0;Rural;LE
+2019;LEÓN;Ponferrada;;55;14;4;1;;1;;75;67;8;Urbano;LE
+2019;LEÓN;San Andrés del Rabanedo;;31;5;1;1;;;;38;36;2;Urbano;LE
+2019;LEÓN;Santa María del Páramo;3;;;;;;;;3;3;0;Rural;LE
+2019;LEÓN;Toral de los Vados;;2;;;;;;;2;2;0;Rural;LE
+2019;LEÓN;Toreno;;1;;;;;;;1;1;0;Rural;LE
+2019;LEÓN;Valencia de Don Juan;;5;;;;;;;5;5;0;Rural;LE
+2019;LEÓN;Valverde de la Virgen;;8;;;;;;;8;6;2;Rural;LE
+2019;LEÓN;Villablino;;8;;;;;;;8;7;1;Rural;LE
+2019;LEÓN;Villafranca del Bierzo;;2;;;;;;;2;1;1;Rural;LE
+2019;LEÓN;Villaquilambre;;12;3;;;;;;15;12;3;Rural;LE
+2019;PALENCIA;Aguilar de Campoo;;8;1;1;;;;;10;10;0;Rural;PA
+2019;PALENCIA;Barruelo de Santullán;1;;;;;;;;1;1;0;Rural;PA
+2019;PALENCIA;Carrión de los Condes;2;1;;;;;;;3;3;0;Rural;PA
+2019;PALENCIA;Dueñas;;4;;;;;;;4;3;1;Rural;PA
+2019;PALENCIA;Guardo;;4;;1;;;;;5;5;0;Rural;PA
+2019;PALENCIA;Herrera de Pisuerga;2;;;;;;;;2;2;0;Rural;PA
+2019;PALENCIA;PALENCIA;;68;8;3;;;1;;80;75;5;Urbano;PA
+2019;PALENCIA;Paredes de Nava;;1;;;;;;;1;1;0;Rural;PA
+2019;PALENCIA;Saldaña;3;;;;;;;;3;2;1;Rural;PA
+2019;PALENCIA;Venta de Baños;;3;1;;;;;;4;3;1;Rural;PA
+2019;PALENCIA;Villamuriel de Cerrato;;4;1;;;;;;5;4;1;Rural;PA
+2019;SALAMANCA;Alba de Tormes;;3;1;;;;;;4;3;1;Rural;SA
+2019;SALAMANCA;Béjar;;19;2;;;;;;21;19;2;Rural;SA
+2019;SALAMANCA;Carbajosa de la Sagrada;;6;1;;;;;;7;6;1;Rural;SA
+2019;SALAMANCA;Ciudad Rodrigo;;16;2;2;;;;;20;18;2;Rural;SA
+2019;SALAMANCA;Guijuelo;;12;;1;;;;;13;13;0;Rural;SA
+2019;SALAMANCA;Peñaranda de Bracamonte;;8;2;1;;;;;11;11;0;Rural;SA
+2019;SALAMANCA;SALAMANCA;;229;27;17;5;2;;;280;246;34;Urbano;SA
+2019;SALAMANCA;Santa Marta de Tormes;;19;3;1;1;;;;24;22;2;Rural;SA
+2019;SALAMANCA;Terradillos;;4;;;;;;;4;4;0;Rural;SA
+2019;SALAMANCA;Villamayor;3;;;;;;;;3;1;2;Rural;SA
+2019;SALAMANCA;Vitigudino;;1;;;;;;;1;1;0;Rural;SA
+2019;SEGOVIA;Cantalejo;4;;;;;;;;4;4;0;Rural;SE
+2019;SEGOVIA;Cuéllar;;8;1;1;;;;;10;10;0;Rural;SE
+2019;SEGOVIA;El Espinar;;13;2;2;;;;;17;15;2;Rural;SE
+2019;SEGOVIA;SEGOVIA;;76;10;5;3;1;1;;96;88;8;Urbano;SE
+2019;SORIA;Ágreda;;2;;;;;;;2;2;0;Rural;SO
+2019;SORIA;Almazán;;8;1;;;;;;9;9;0;Rural;SO
+2019;SORIA;El Burgo de Osma;;4;;;;;;;4;4;0;Rural;SO
+2019;SORIA;Ólvega;1;;;;;;;;1;1;0;Rural;SO
+2019;SORIA;San Leonardo de Yagüe;1;;;;;;;;1;1;0;Rural;SO
+2019;SORIA;SORIA;;49;7;3;1;;;;60;55;5;Urbano;SO
+2019;VALLADOLID;Arroyo de la Encomienda;;13;;1;;;;;14;13;1;Rural;VA
+2019;VALLADOLID;Boecillo;;3;;;;;;;3;2;1;Rural;VA
+2019;VALLADOLID;Cistérniga;3;;;;;;;;3;2;1;Rural;VA
+2019;VALLADOLID;Cogeces del Monte;1;;;;;;;;1;1;0;Rural;VA
+2019;VALLADOLID;Íscar;;3;1;;;;;;4;4;0;Rural;VA
+2019;VALLADOLID;Laguna de Duero;;21;3;1;1;;;;26;24;2;Urbano;VA
+2019;VALLADOLID;Medina de Rioseco;;1;1;;;;;;2;2;0;Rural;VA
+2019;VALLADOLID;Medina del Campo;;19;5;1;2;;;;27;25;2;Urbano;VA
+2019;VALLADOLID;Pedrajas de San Esteban;;1;;;;;;;1;1;0;Rural;VA
+2019;VALLADOLID;Peñafiel;;8;;;;;;;8;8;0;Rural;VA
+2019;VALLADOLID;Simancas;;6;;1;;;;;7;7;0;Rural;VA
+2019;VALLADOLID;Tordesillas;;7;;2;;;;;9;8;1;Rural;VA
+2019;VALLADOLID;Tudela de Duero;;8;1;1;;;;;10;9;1;Rural;VA
+2019;VALLADOLID;VALLADOLID;;346;19;13;5;1;2;;386;330;56;Urbano;VA
+2019;ZAMORA;Benavente;;25;5;1;;;;;31;25;6;Rural;ZA
+2019;ZAMORA;Corrales del Vino;;1;;;;;;;1;1;0;Rural;ZA
+2019;ZAMORA;Puebla de Sanabria;;1;;;;;;;1;1;0;Rural;ZA
+2019;ZAMORA;Toro;;11;3;2;;;;;16;15;1;Rural;ZA
+2019;ZAMORA;ZAMORA;;90;13;6;1;;;;110;101;9;Urbano;ZA
+2018;ÁVILA;Arenas de San Pedro;;12;;;;;;;12;10;2;Rural;AV
+2018;ÁVILA;Arévalo;;12;4;;;;;;16;13;3;Rural;AV
+2018;ÁVILA;ÁVILA;;72;17;3;1;1;;;94;89;5;Urbano;AV
+2018;ÁVILA;Candeleda;;9;;;;;;;9;9;0;Rural;AV
+2018;ÁVILA;Cebreros;;4;2;;;;;;6;5;1;Rural;AV
+2018;ÁVILA;El Barco de Ávila;2;;;;;;;;2;2;0;Rural;AV
+2018;ÁVILA;El Hoyo de Pinares;;3;;;;;;;3;3;0;Rural;AV
+2018;ÁVILA;El Tiemblo;;4;;;;;;;4;4;0;Rural;AV
+2018;ÁVILA;La Adrada;;2;1;;;;;;3;3;0;Rural;AV
+2018;ÁVILA;Las Navas del Marqués;;7;1;;;;;;8;8;0;Rural;AV
+2018;ÁVILA;Piedralaves;;3;1;;;;;;4;3;1;Rural;AV
+2018;ÁVILA;Sotillo de la Adrada;;5;1;;;;;;6;6;0;Rural;AV
+2018;BURGOS;Aranda de Duero;;30;2;;1;;;;33;28;5;Urbano;BU
+2018;BURGOS;Briviesca;;10;2;;;;;;12;12;0;Rural;BU
+2018;BURGOS;BURGOS;;210;25;9;3;1;1;;249;237;12;Urbano;BU
+2018;BURGOS;Lerma;;2;;;;;;;2;2;0;Rural;BU
+2018;BURGOS;Medina de Pomar;;4;2;;;;;;6;5;1;Rural;BU
+2018;BURGOS;Melgar de Fernamental;1;;;;;;;;1;0;1;Rural;BU
+2018;BURGOS;Miranda de Ebro;;46;10;3;2;1;;;62;56;6;Urbano;BU
+2018;BURGOS;Roa;;1;;;;;;;1;1;0;Rural;BU
+2018;BURGOS;Salas de los Infantes;1;;;;;;;;1;0;1;Rural;BU
+2018;BURGOS;Valle de Mena;;6;;;;;;;6;4;2;Rural;BU
+2018;LEÓN;Astorga;;15;3;1;;;;;19;17;2;Rural;LE
+2018;LEÓN;Bembibre;;9;1;;;;;;10;10;0;Rural;LE
+2018;LEÓN;Cacabelos;;4;;;;;;;4;4;0;Rural;LE
+2018;LEÓN;Cistierna;;1;;;;;;;1;1;0;Rural;LE
+2018;LEÓN;Fabero;;2;;;;;;;2;2;0;Rural;LE
+2018;LEÓN;La Bañeza;;16;2;1;;;;;19;14;5;Rural;LE
+2018;LEÓN;La Pola de Gordón;;1;;;;;;;1;1;0;Rural;LE
+2018;LEÓN;La Robla;;3;1;;;;;;4;4;0;Rural;LE
+2018;LEÓN;LEÓN;;184;18;8;3;1;1;;215;198;17;Urbano;LE
+2018;LEÓN;Mansilla de las Mulas;1;;;;;;;;1;1;0;Rural;LE
+2018;LEÓN;Ponferrada;;55;14;4;1;;1;;75;67;8;Urbano;LE
+2018;LEÓN;San Andrés del Rabanedo;;31;6;2;1;;;;40;38;2;Urbano;LE
+2018;LEÓN;Santa María del Páramo;3;;;;;;;;3;3;0;Rural;LE
+2018;LEÓN;Toral de los Vados;;2;;;;;;;2;2;0;Rural;LE
+2018;LEÓN;Toreno;;1;;;;;;;1;1;0;Rural;LE
+2018;LEÓN;Valencia de Don Juan;;5;;;;;;;5;5;0;Rural;LE
+2018;LEÓN;Valverde de la Virgen;;8;;;;;;;8;6;2;Rural;LE
+2018;LEÓN;Villablino;;8;;;;;;;8;7;1;Rural;LE
+2018;LEÓN;Villafranca del Bierzo;;2;;;;;;;2;1;1;Rural;LE
+2018;LEÓN;Villaquilambre;;12;3;;;;;;15;12;3;Rural;LE
+2018;PALENCIA;Aguilar de Campoo;;8;1;1;;;;;10;10;0;Rural;PA
+2018;PALENCIA;Barruelo de Santullán;1;;;;;;;;1;1;0;Rural;PA
+2018;PALENCIA;Carrión de los Condes;3;;;;;;;;3;3;0;Rural;PA
+2018;PALENCIA;Dueñas;;5;;;;;;;5;4;1;Rural;PA
+2018;PALENCIA;Guardo;;5;1;1;;;;;7;7;0;Rural;PA
+2018;PALENCIA;Herrera de Pisuerga;2;;;;;;;;2;2;0;Rural;PA
+2018;PALENCIA;PALENCIA;;93;19;6;3;;;;121;116;5;Urbano;PA
+2018;PALENCIA;Paredes de Nava;2;;;;;;;;2;2;0;Rural;PA
+2018;PALENCIA;Saldaña;2;;;;;;;;2;2;0;Rural;PA
+2018;PALENCIA;Venta de Baños;;4;1;;;;;;5;4;1;Rural;PA
+2018;PALENCIA;Villamuriel de Cerrato;;3;1;;;;;;4;4;0;Rural;PA
+2018;SALAMANCA;Alba de Tormes;;3;1;;;;;;4;3;1;Rural;SA
+2018;SALAMANCA;Béjar;;22;4;1;;;;;27;26;1;Rural;SA
+2018;SALAMANCA;Carbajosa de la Sagrada;;4;1;;;;;;5;4;1;Rural;SA
+2018;SALAMANCA;Ciudad Rodrigo;;19;2;2;;;;;23;20;3;Rural;SA
+2018;SALAMANCA;Guijuelo;;11;;1;;;;;12;12;0;Rural;SA
+2018;SALAMANCA;Peñaranda de Bracamonte;;8;2;1;;;;;11;11;0;Rural;SA
+2018;SALAMANCA;SALAMANCA;;236;21;17;5;2;;;281;249;32;Urbano;SA
+2018;SALAMANCA;Santa Marta de Tormes;;16;3;1;1;;;;21;19;2;Rural;SA
+2018;SALAMANCA;Terradillos;;5;;;;;;;5;5;0;Rural;SA
+2018;SALAMANCA;Villamayor;4;;;;;;;;4;2;2;Rural;SA
+2018;SALAMANCA;Vitigudino;1;;;;;;;;1;1;0;Rural;SA
+2018;SEGOVIA;Cantalejo;4;;;;;;;;4;4;0;Rural;SE
+2018;SEGOVIA;Cuéllar;;9;1;1;;;;;11;11;0;Rural;SE
+2018;SEGOVIA;El Espinar;;14;2;2;;;;;18;16;2;Rural;SE
+2018;SEGOVIA;SEGOVIA;;83;11;5;3;1;1;;104;97;7;Urbano;SE
+2018;SORIA;Ágreda;2;;;;;;;;2;2;0;Rural;SO
+2018;SORIA;Almazán;;8;1;;;;;;9;9;0;Rural;SO
+2018;SORIA;El Burgo de Osma;;4;;;;;;;4;4;0;Rural;SO
+2018;SORIA;Ólvega;1;;;;;;;;1;1;0;Rural;SO
+2018;SORIA;San Leonardo de Yagüe;1;;;;;;;;1;1;0;Rural;SO
+2018;SORIA;SORIA;;56;8;3;1;;1;;69;65;4;Urbano;SO
+2018;VALLADOLID;Arroyo de la Encomienda;;13;;1;;;;;14;13;1;Rural;VA
+2018;VALLADOLID;Boecillo;;4;;;;;;;4;3;1;Rural;VA
+2018;VALLADOLID;Cistérniga;6;;;;;;;;6;5;1;Rural;VA
+2018;VALLADOLID;Cogeces del Monte;1;;;;;;;;1;1;0;Rural;VA
+2018;VALLADOLID;Íscar;;4;1;;;;;;5;5;0;Rural;VA
+2018;VALLADOLID;Laguna de Duero;;20;4;1;;;;;25;23;2;Urbano;VA
+2018;VALLADOLID;Medina de Rioseco;;1;1;;;;;;2;2;0;Rural;VA
+2018;VALLADOLID;Medina del Campo;;20;5;1;2;;;;28;26;2;Urbano;VA
+2018;VALLADOLID;Pedrajas de San Esteban;;2;;;;;;;2;2;0;Rural;VA
+2018;VALLADOLID;Peñafiel;;6;;;;;;;6;6;0;Rural;VA
+2018;VALLADOLID;Simancas;;7;;1;;;;;8;8;0;Rural;VA
+2018;VALLADOLID;Tordesillas;;11;1;1;;;;;13;12;1;Rural;VA
+2018;VALLADOLID;Tudela de Duero;;6;1;1;;;;;8;7;1;Rural;VA
+2018;VALLADOLID;VALLADOLID;;388;29;16;6;1;2;;442;379;63;Urbano;VA
+2018;ZAMORA;Benavente;;22;5;1;;;;;28;23;5;Rural;ZA
+2018;ZAMORA;Corrales del Vino;;1;;;;;;;1;1;0;Rural;ZA
+2018;ZAMORA;Puebla de Sanabria;1;;;;;;;;1;1;0;Rural;ZA
+2018;ZAMORA;Toro;;11;4;1;;;;;16;15;1;Rural;ZA
+2018;ZAMORA;ZAMORA;;93;10;6;1;;;;110;100;10;Urbano;ZA
+2017;ÁVILA;Arenas de San Pedro;;12;;;;;;;12;10;2;Rural;AV
+2017;ÁVILA;Arévalo;;12;4;;;;;;16;14;2;Rural;AV
+2017;ÁVILA;ÁVILA;;76;15;4;1;1;;;97;92;5;Urbano;AV
+2017;ÁVILA;Candeleda;;9;;;;;;;9;9;0;Rural;AV
+2017;ÁVILA;Cebreros;;6;2;;;;;;8;7;1;Rural;AV
+2017;ÁVILA;El Barco de Ávila;2;;;;;;;;2;2;0;Rural;AV
+2017;ÁVILA;El Hoyo de Pinares;;3;;;;;;;3;3;0;Rural;AV
+2017;ÁVILA;El Tiemblo;;4;;;;;;;4;4;0;Rural;AV
+2017;ÁVILA;La Adrada;;2;1;;;;;;3;3;0;Rural;AV
+2017;ÁVILA;Las Navas del Marqués;;5;1;;;;;;6;6;0;Rural;AV
+2017;ÁVILA;Piedralaves;;3;1;;;;;;4;3;1;Rural;AV
+2017;ÁVILA;Sotillo de la Adrada;;5;1;;;;;;6;6;0;Rural;AV
+2017;BURGOS;Aranda de Duero;;34;2;;1;;;;37;31;6;Urbano;BU
+2017;BURGOS;Briviesca;;10;2;;;;;;12;12;0;Rural;BU
+2017;BURGOS;BURGOS;;209;26;9;3;1;1;;249;238;11;Urbano;BU
+2017;BURGOS;Lerma;;2;;;;;;;2;2;0;Rural;BU
+2017;BURGOS;Medina de Pomar;;4;2;;;;;;6;5;1;Rural;BU
+2017;BURGOS;Melgar de Fernamental;1;;;;;;;;1;0;1;Rural;BU
+2017;BURGOS;Miranda de Ebro;;49;10;3;2;1;;;65;59;6;Urbano;BU
+2017;BURGOS;Roa;;1;;;;;;;1;1;0;Rural;BU
+2017;BURGOS;Salas de los Infantes;1;;;;;;;;1;0;1;Rural;BU
+2017;BURGOS;Valle de Mena;;7;;;;;;;7;5;2;Rural;BU
+2017;LEÓN;Astorga;;17;2;2;;;;;21;19;2;Rural;LE
+2017;LEÓN;Bembibre;;13;1;1;;;;;15;13;2;Rural;LE
+2017;LEÓN;Cacabelos;;4;;;;;;;4;4;0;Rural;LE
+2017;LEÓN;Cistierna;;1;;;;;;;1;1;0;Rural;LE
+2017;LEÓN;Fabero;;2;;;;;;;2;2;0;Rural;LE
+2017;LEÓN;La Bañeza;;15;2;1;;;;;18;13;5;Rural;LE
+2017;LEÓN;La Pola de Gordón;;1;;;;;;;1;1;0;Rural;LE
+2017;LEÓN;La Robla;;2;1;;;;;;3;3;0;Rural;LE
+2017;LEÓN;LEÓN;;186;18;8;3;1;1;;217;202;15;Urbano;LE
+2017;LEÓN;Mansilla de las Mulas;1;;;;;;;;1;1;0;Rural;LE
+2017;LEÓN;Ponferrada;;59;11;4;;1;;;75;67;8;Urbano;LE
+2017;LEÓN;Sahagún;1;;;;;;;;1;1;0;Rural;LE
+2017;LEÓN;San Andrés del Rabanedo;;31;6;2;1;;;;40;38;2;Urbano;LE
+2017;LEÓN;Santa María del Páramo;3;;;;;;;;3;3;0;Rural;LE
+2017;LEÓN;Toral de los Vados;2;;;;;;;;2;2;0;Rural;LE
+2017;LEÓN;Toreno;;1;;;;;;;1;1;0;Rural;LE
+2017;LEÓN;Valencia de Don Juan;;4;;;;;;;4;4;0;Rural;LE
+2017;LEÓN;Valverde de la Virgen;;8;;;;;;;8;6;2;Rural;LE
+2017;LEÓN;Villablino;;8;;;;;;;8;7;1;Rural;LE
+2017;LEÓN;Villafranca del Bierzo;;2;;;;;;;2;1;1;Rural;LE
+2017;LEÓN;Villaquilambre;;13;3;;;;;;16;13;3;Rural;LE
+2017;PALENCIA;Aguilar de Campoo;;8;1;1;;;;;10;10;0;Rural;PA
+2017;PALENCIA;Barruelo de Santullán;1;;;;;;;;1;1;0;Rural;PA
+2017;PALENCIA;Carrión de los Condes;3;;;;;;;;3;3;0;Rural;PA
+2017;PALENCIA;Dueñas;;5;;;;;;;5;4;1;Rural;PA
+2017;PALENCIA;Guardo;;6;1;1;;;;;8;8;0;Rural;PA
+2017;PALENCIA;Herrera de Pisuerga;2;;;;;;;;2;2;0;Rural;PA
+2017;PALENCIA;PALENCIA;;95;20;7;2;;;;124;118;6;Urbano;PA
+2017;PALENCIA;Paredes de Nava;2;;;;;;;;2;2;0;Rural;PA
+2017;PALENCIA;Saldaña;2;;;;;;;;2;2;0;Rural;PA
+2017;PALENCIA;Venta de Baños;;4;1;;;;;;5;4;1;Rural;PA
+2017;PALENCIA;Villamuriel de Cerrato;;3;1;;;;;;4;4;0;Rural;PA
+2017;SALAMANCA;Alba de Tormes;;5;1;;;;;;6;5;1;Rural;SA
+2017;SALAMANCA;Béjar;;22;3;1;;;;;26;26;0;Rural;SA
+2017;SALAMANCA;Cantalejo;4;;;;;;;;4;4;0;Rural;SA
+2017;SALAMANCA;Carbajosa de la Sagrada;;5;1;;;;;;6;5;1;Rural;SA
+2017;SALAMANCA;Ciudad Rodrigo;;17;2;2;;;;;21;19;2;Rural;SA
+2017;SALAMANCA;Cuéllar;;11;1;1;;;;;13;12;1;Rural;SA
+2017;SALAMANCA;El Espinar;;12;2;1;;;;;15;13;2;Rural;SA
+2017;SALAMANCA;Guijuelo;;11;;1;;;;;12;11;1;Rural;SA
+2017;SALAMANCA;Peñaranda de Bracamonte;;8;2;1;;;;;11;11;0;Rural;SA
+2017;SALAMANCA;SALAMANCA;;216;21;17;5;2;;;261;232;29;Urbano;SA
+2017;SALAMANCA;Santa Marta de Tormes;;20;3;1;1;;;;25;22;3;Rural;SA
+2017;SALAMANCA;SEGOVIA;;86;11;5;3;1;1;;107;100;7;Urbano;SA
+2017;SALAMANCA;Terradillos;;5;;;;;;;5;5;0;Rural;SA
+2017;SALAMANCA;Villamayor;4;;;;;;;;4;2;2;Rural;SA
+2017;SALAMANCA;Vitigudino;1;;;;;;;;1;1;0;Rural;SA
+2017;SORIA;Ágreda;2;;;;;;;;2;2;0;Rural;SO
+2017;SORIA;Almazán;;10;1;;;;;;11;11;0;Rural;SO
+2017;SORIA;El Burgo de Osma;;4;;;;;;;4;4;0;Rural;SO
+2017;SORIA;Ólvega;1;;;;;;;;1;1;0;Rural;SO
+2017;SORIA;SORIA;;46;8;3;1;;1;;59;56;3;Urbano;SO
+2017;VALLADOLID;Arroyo de la Encomienda;;11;;1;;;;;12;11;1;Rural;VA
+2017;VALLADOLID;Boecillo;;4;;;;;;;4;3;1;Rural;VA
+2017;VALLADOLID;Cistérniga;6;;;;;;;;6;5;1;Rural;VA
+2017;VALLADOLID;Cogeces del Monte;1;;;;;;;;1;1;0;Rural;VA
+2017;VALLADOLID;Íscar;1;3;1;;;;;;5;5;0;Rural;VA
+2017;VALLADOLID;Laguna de Duero;;20;4;1;;;;;25;23;2;Urbano;VA
+2017;VALLADOLID;Medina de Rioseco;;1;1;;;;;;2;2;0;Rural;VA
+2017;VALLADOLID;Medina del Campo;;20;6;1;2;;;;29;28;1;Urbano;VA
+2017;VALLADOLID;Pedrajas de San Esteban;;2;;;;;;;2;2;0;Rural;VA
+2017;VALLADOLID;Peñafiel;;6;;;;;;;6;6;0;Rural;VA
+2017;VALLADOLID;Simancas;;7;;1;;;;;8;8;0;Rural;VA
+2017;VALLADOLID;Tordesillas;;11;;1;;;;;12;12;0;Rural;VA
+2017;VALLADOLID;Tudela de Duero;;7;;1;;;;;8;7;1;Rural;VA
+2017;VALLADOLID;VALLADOLID;;401;26;14;6;2;2;;451;388;63;Urbano;VA
+2017;ZAMORA;Benavente;;23;5;1;;;;;29;22;7;Rural;ZA
+2017;ZAMORA;Corrales del Vino;;1;;;;;;;1;1;0;Rural;ZA
+2017;ZAMORA;Puebla de Sanabria;1;;;;;;;;1;1;0;Rural;ZA
+2017;ZAMORA;Toro;;12;5;1;;;;;18;17;1;Rural;ZA
+2017;ZAMORA;ZAMORA;;88;12;4;1;;;;105;97;8;Urbano;ZA
