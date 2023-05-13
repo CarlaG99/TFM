@@ -1,22 +1,8 @@
-﻿"Año";"Periodo";"Renta bruta media per cápita"
-"2013";"Año";"17.888"
-"2014";"Año";"17.985"
-"2015";"Año";"18.507"
-"2016";"Año";"18.774"
-"2017";"Año";"19.377"
-"2018";"Año";"20.041"
-"2019";"Año";"20.376"
-;;
-;;
-"Métrica":"Renta bruta media per cápita"
-"Fuente":"AEAT"
-"Clasificación":""
-"Unidad":"Euros de media per cápita"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;
-;;
-"Url":"https://www.epdata.es/renta-bruta-media-euros/faffeb07-2da9-4354-b171-d698f3556609/ecija/2898"
-"Titulo":"La renta bruta media de Écija es de 20.376﻿ euros"
-"Subtitulo":""
+﻿Año;Periodo;Renta bruta media per cápita
+2013;Año;17.888
+2014;Año;17.985
+2015;Año;18.507
+2016;Año;18.774
+2017;Año;19.377
+2018;Año;20.041
+2019;Año;20.376
